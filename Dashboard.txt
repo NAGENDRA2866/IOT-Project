@@ -1,0 +1,5 @@
+Create ThingSpeak visual dashboard with charts.
+
+I Took components needed from IOT Lab and did research on the all components and connections
+
+And Tried to connect using ESP-32
