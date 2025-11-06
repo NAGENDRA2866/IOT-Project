@@ -1,0 +1,3 @@
+Created ThingSpeak Account and also created a channel with 3 fields Succesfully
+
+Next I will connect using Write API and channelID using Wifi.
