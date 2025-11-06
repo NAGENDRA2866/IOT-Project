@@ -1,0 +1,8 @@
+All Members,
+
+Finalize project idea, objective, and required components (ESP32, ACS712, Voltage sensor, Relay, LED, DC Motor).
+
+Research on IoT platforms (ThingSpeak, Fire base).
+Finalized that- We are using Thingspeak in this project.
+
+Set up Arduino IDE with ESP32 board manager and libraries.
